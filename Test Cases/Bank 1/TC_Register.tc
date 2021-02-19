@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>938fdf67-30ff-4d8c-acae-905cea0673b4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7eea4049-20ae-46ec-beee-fd7840481b54</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea18e20e-05ce-49cd-8edf-d0497174837f</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cedac602-5eaa-430a-8010-d5844c673d22</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e694bc0-ba05-4a3b-9b5b-3428becbd696</id>
+      <masked>false</masked>
+      <name>confirmpass</name>
+   </variable>
+</TestCaseEntity>

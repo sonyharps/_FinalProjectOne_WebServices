@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Binding_Create Acc_2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da533e32-05ba-4cac-ab87-25138319843e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d582bb37-2244-43b4-b908-1f8e31be41cd</id>
+      <masked>false</masked>
+      <name>Displayname</name>
+   </variable>
+</TestCaseEntity>

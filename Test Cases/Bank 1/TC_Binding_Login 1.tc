@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Binding_Login 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5b26484-ef06-4bc7-af19-f6cdcc374065</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c02e6c20-a526-40db-84f4-32c486bef61e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d4e4761-acf0-4145-a86d-b5deb221f3e5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>158d46d6-6a12-4981-8872-0587c101c0e7</id>
+      <masked>false</masked>
+      <name>email2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>131ec27c-550e-4ac1-adc0-f4f4e0abd03b</id>
+      <masked>false</masked>
+      <name>pass2</name>
+   </variable>
+</TestCaseEntity>
